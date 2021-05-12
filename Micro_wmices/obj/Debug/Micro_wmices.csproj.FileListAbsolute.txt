@@ -1,0 +1,6 @@
+C:\Users\code\source\repos\Micro_wmices\bin\Debug\Micro_wmices.exe.config
+C:\Users\code\source\repos\Micro_wmices\bin\Debug\Micro_wmices.exe
+C:\Users\code\source\repos\Micro_wmices\bin\Debug\Micro_wmices.pdb
+C:\Users\code\source\repos\Micro_wmices\obj\Debug\Micro_wmices.csproj.CoreCompileInputs.cache
+C:\Users\code\source\repos\Micro_wmices\obj\Debug\Micro_wmices.exe
+C:\Users\code\source\repos\Micro_wmices\obj\Debug\Micro_wmices.pdb

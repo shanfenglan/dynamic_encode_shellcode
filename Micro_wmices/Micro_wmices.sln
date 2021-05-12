@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Micro_wmices", "Micro_wmices.csproj", "{0F783E0F-961E-4DF5-AE68-4E42650BCB6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F783E0F-961E-4DF5-AE68-4E42650BCB6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F783E0F-961E-4DF5-AE68-4E42650BCB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F783E0F-961E-4DF5-AE68-4E42650BCB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F783E0F-961E-4DF5-AE68-4E42650BCB6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7B7485B-267D-41E2-8E49-212D6B7B076B}
+	EndGlobalSection
+EndGlobal
